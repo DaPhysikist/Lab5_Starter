@@ -2,8 +2,6 @@
 
 Name: Pranav Mehta
 
-Name: Pranav Mehta
-
 Expose: https://daphysikist.github.io/Lab5_Starter/expose.html 
 
 Explore: https://daphysikist.github.io/Lab5_Starter/explore.html
